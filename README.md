@@ -1,5 +1,10 @@
 ## how to reproduce
 
+Using sqlite
+
+-   username: admin@admin.com
+-   password: password
+
 -   Create a wizzard with at least 2 steps
 -   Have an required email field in one step
 -   Enter an invalid email address
