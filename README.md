@@ -1,9 +1,9 @@
-## how to reproduce
-
-Using sqlite
+## Login
 
 -   username: admin@admin.com
 -   password: password
+
+## How to reproduce
 
 -   Create a wizzard with at least 2 steps
 -   Have an required email field in one step
